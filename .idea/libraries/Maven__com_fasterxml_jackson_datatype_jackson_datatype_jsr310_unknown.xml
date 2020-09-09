@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.fasterxml.jackson.datatype:jackson-datatype-jsr310:unknown">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../maven/Repository/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/unknown/jackson-datatype-jsr310-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../../maven/Repository/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/unknown/jackson-datatype-jsr310-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../maven/Repository/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/unknown/jackson-datatype-jsr310-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
